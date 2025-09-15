@@ -304,6 +304,26 @@
                               "state": {
                                 "collapsed": false,
                                 "visible": true,
+                                "selected": true
+                              },
+                              "name": "a",
+                              "type": "text",
+                              "text": "🃏 The Deck 🃏",
+                              "props": {
+                                "href": "https://michaelsboost.com/the-deck/",
+                                "target": "_blank",
+                                "class": "leading-normal border border-solid px-8 py-4 border-white w-full mt-4 hover:bg-white hover:text-black transition duration-150",
+                                "type": "button"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "a",
+                              "id": "iy76ax5q9",
+                              "style": "",
+                              "state": {
+                                "collapsed": false,
+                                "visible": true,
                                 "selected": false
                               },
                               "name": "a",
@@ -384,7 +404,7 @@
                               "state": {
                                 "collapsed": false,
                                 "visible": true,
-                                "selected": true
+                                "selected": false
                               },
                               "name": "a",
                               "type": "text",
@@ -1071,5 +1091,5 @@
   "dark": true,
   "previewDark": true,
   "pwa": false,
-  "activePanel": null
+  "activePanel": "layers"
 }

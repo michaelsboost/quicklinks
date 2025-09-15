@@ -8,6 +8,7 @@ Welcome to my official link hub – a centralized, no-BS collection of everythin
 - 📚 [Guides & eBooks](https://michaelsboost.gumroad.com/)
 - 🎓 [Courses](https://www.udemy.com/user/2b08e305-f611-47e4-85a2-a04e9a0a90a5/)
 - 📈 [PropForge Trading Simulator](https://michaelsboost.com/PropForge/)
+- 🃏 [ The Deck](https://michaelsboost.com/the-deck/)
 - 🔦 [Beacon Survival App](https://michaelsboost.com/Beacon/)
 - 🥼 [Merch Store](https://michaelsboost-store.creator-spring.com/)
 - 📱 [Free Software](https://michaelsboost.com/#free)
