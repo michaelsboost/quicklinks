@@ -25,11 +25,6 @@ Welcome to my official link hub – a centralized, no-BS collection of everythin
 - CodePen: [michaelsboost](https://codepen.io/michaelsboost)  
 - Dribbble: [michaelsboost](https://dribbble.com/michaelsboost)  
 
-## 📬 Stay Connected
-
-🌟 Join the **Discord Community** (coming soon)  
-Or follow me on [Gumroad](https://michaelsboost.gumroad.com/) for free and paid drops.  
-
 ---
 
 © 2023–Present [michaelsboost.com](https://michaelsboost.com) • All Rights Reserved
