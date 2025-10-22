@@ -284,7 +284,7 @@
                               "state": {
                                 "collapsed": false,
                                 "visible": true,
-                                "selected": true
+                                "selected": false
                               },
                               "name": "a",
                               "type": "text",
@@ -391,6 +391,26 @@
                               "text": "📈 Get Yourself A Free Stock 📈",
                               "props": {
                                 "href": "https://michaelsboost.com/freestock",
+                                "target": "_blank",
+                                "class": "leading-normal border border-solid px-8 py-4 border-white w-full mt-4 hover:bg-white hover:text-black transition duration-150",
+                                "type": "button"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "a",
+                              "id": "o46q5m92w",
+                              "style": "",
+                              "state": {
+                                "collapsed": false,
+                                "visible": true,
+                                "selected": true
+                              },
+                              "name": "a",
+                              "type": "text",
+                              "text": "🚀 Get Your Share of $10,000+",
+                              "props": {
+                                "href": "https://app.settlemate.io/invite/WU1MXYYNADG4",
                                 "target": "_blank",
                                 "class": "leading-normal border border-solid px-8 py-4 border-white w-full mt-4 hover:bg-white hover:text-black transition duration-150",
                                 "type": "button"
