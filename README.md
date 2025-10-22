@@ -13,6 +13,7 @@ Welcome to my official link hub – a centralized, no-BS collection of everythin
 - 🥼 [Merch Store](https://michaelsboost-store.creator-spring.com/)  
 - 📱 [Free Software](https://michaelsboost.com/#free)  
 - 📈 [Free Stock Offers](https://michaelsboost.com/freestock)  
+- 🚀 [Settlemate Rewards](https://app.settlemate.io/invite/WU1MXYYNADG4)  
 - 💸 [Pocket Option Referral](https://pocket-friends.com/r/wfbvsltn4w)  
 
 ## 🌐 Social Media
