@@ -456,6 +456,26 @@
                                 "type": "button"
                               },
                               "children": []
+                            },
+                            {
+                              "tag": "a",
+                              "id": "as8ct8as8",
+                              "style": "",
+                              "state": {
+                                "collapsed": false,
+                                "visible": true,
+                                "selected": false
+                              },
+                              "name": "a",
+                              "type": "text",
+                              "text": "🌌 CIVILIS — Collapse, Sustainability & Kardashev Simulation 🌌",
+                              "props": {
+                                "href": "https://michaelsboost.com/Civilis",
+                                "target": "_blank",
+                                "class": "leading-normal border border-solid px-8 py-4 border-white w-full mt-4 hover:bg-white hover:text-black transition duration-150",
+                                "type": "button"
+                              },
+                              "children": []
                             }
                           ]
                         },
