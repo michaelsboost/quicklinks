@@ -439,6 +439,26 @@
                             },
                             {
                               "tag": "a",
+                              "id": "nck6kcj56yk5j6",
+                              "style": "",
+                              "state": {
+                                "collapsed": false,
+                                "visible": true,
+                                "selected": false
+                              },
+                              "name": "a",
+                              "type": "text",
+                              "text": "⚡ Motiv8 — Mindset Switcher & Daily Motivation ⚡",
+                              "props": {
+                                "href": "https://michaelsboost.com/motiv8",
+                                "target": "_blank",
+                                "class": "leading-normal border border-solid px-8 py-4 border-white w-full mt-4 hover:bg-white hover:text-black transition duration-150",
+                                "type": "button"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "a",
                               "id": "hjv3r2j23",
                               "style": "",
                               "state": {
