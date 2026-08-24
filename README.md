@@ -21,6 +21,7 @@ Welcome to my official link hub – a centralized, no-BS collection of everythin
 - 🌱 [Go Vegan — Vegan Alternatives, Recipes & Transition Guide](https://michaelsboost.com/govegan/)
 - ♻️ [Zerra — Rethink Waste. Reconnect with Earth.](https://michaelsboost.com/Zerra/)
 - 🔍 [The Black Archive — Investigate Claims, Testimony, UAPs & Hidden History](https://michaelsboost.com/TheBlackArchive)
+- 📚 [Felz Books — Free Knowledge Archive in Honor of Joe Felz](https://michaelsboost.com/felzbooks/)  
 
 ## 🌐 Social Media
 
