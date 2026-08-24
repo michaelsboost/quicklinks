@@ -15,6 +15,12 @@ Welcome to my official link hub – a centralized, no-BS collection of everythin
 - 📈 [Free Stock Offers](https://michaelsboost.com/freestock)  
 - 🚀 [Settlemate Rewards](https://app.settlemate.io/invite/WU1MXYYNADG4)  
 - 💸 [Pocket Option Referral](https://pocket-friends.com/r/wfbvsltn4w)  
+- ⚡ [Motiv8 — Mindset Switcher & Daily Motivation](https://michaelsboost.com/motiv8/)
+- 💛 [Love, Dad. — Emotional Support & Confidence for Kids](https://michaelsboost.com/lovedad/)
+- 🌌 [CIVILIS — Collapse, Sustainability & Kardashev Simulation](https://michaelsboost.com/Civilis/)
+- 🌱 [Go Vegan — Vegan Alternatives, Recipes & Transition Guide](https://michaelsboost.com/govegan/)
+- ♻️ [Zerra — Rethink Waste. Reconnect with Earth.](https://michaelsboost.com/Zerra/)
+- 🔍 [The Black Archive — Investigate Claims, Testimony, UAPs & Hidden History](https://michaelsboost.com/TheBlackArchive)
 
 ## 🌐 Social Media
 
